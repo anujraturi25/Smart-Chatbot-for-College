@@ -1,2 +1,2 @@
-# SmartChatbot-for-College-Queries
+# SmartChatbot-for-College
 
